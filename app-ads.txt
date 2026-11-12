@@ -5098,3 +5098,4 @@ video.unrulymedia.com, 201313863, RESELLER
 video.unrulymedia.com, 703273072, RESELLER
 vidoomy.com, 8953515, RESELLER
 zetaglobal.net, 525, RESELLER
+facebook.com, 1134521802308334, DIRECT, c3e20eee3f780d68
